@@ -15,15 +15,16 @@ API that accepts HTTP POST request with any JSON payload. The API will respond w
   ```
 2. Install dependencies
 
-```npm install```
-4. Run
+  ```npm install```
 
-```
-Default port is 3000.
-Run on different port either by specifying PORT in the environment variable
+3. Run
 
-PORT=4000 node index.js
-```
+  ```
+  Default port is 3000.
+  Run on different port either by specifying PORT in the environment variable
+
+  PORT=4000 node index.js
+  ```
  
 
 ### API Specs
